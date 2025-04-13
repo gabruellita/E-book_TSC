@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-04T15:59:09Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Schematic_tema_tsc v31"
+        },
+        "Owner": "Gabriel Lita <gabriel.lita@stud.acs.upb.ro>",
+        "Size": {
+            "X": 170.2,
+            "Y": 111.2
+        }
+    }
+}
